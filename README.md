@@ -24,7 +24,6 @@ Task 5 – Cybercrime Awareness: Prepared a case study on UPI fraud and created 
 ## Useful Links
  Digital Literacy Quiz
 https://forms.gle/Y9Lvb7aPi3Bduh5e9
-<img width="1896" height="889" alt="Screenshot 2026-03-26 223527" src="https://github.com/user-attachments/assets/e900a65f-a112-4fb0-8e6e-8c67a74e03f9" />
 
 ##  Repository Structure
 - report/ → Project report  
