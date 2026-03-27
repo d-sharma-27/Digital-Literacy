@@ -1,0 +1,1 @@
+Created a one-page infographic using Canva to explain digital literacy, covering key topics like digital tools, online safety, professional presence, and communication skills in a clear and visually engaging format.
